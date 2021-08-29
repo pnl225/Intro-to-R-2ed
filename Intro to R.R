@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# Copy for Peyton Levine
+# Copy for Peyton N. Levine
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
